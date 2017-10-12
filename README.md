@@ -1,5 +1,4 @@
-# urban-fiesta
-## List Creator Application
+# List Creator Application
 ### Practicing:
 - Arrow functions
 - Selecting elements
