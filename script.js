@@ -12,7 +12,7 @@ const listItems = document.getElementsByTagName('li');
 
 listDiv.addEventListener('mouseover', (e) => {
     if (e.target.tagName == 'LI') {
-        listDiv.removeChild(e.target)
+        e.target.textContent = e.target.textContent.toUpperCase();
     }
 });
 
